@@ -1,0 +1,15 @@
+[shell]
+program = "/bin/zsh"
+
+[window]
+option_as_alt = "Both"
+decorations = "None"
+dynamic_padding = true
+startup_mode = "Maximized"
+
+[font]
+normal.family = "Hack Nerd Font"
+bold.family = "Hack Nerd Font"
+italic.family = "Hack Nerd Font"
+bold_italic.family = "Hack Nerd Font"
+size = 15

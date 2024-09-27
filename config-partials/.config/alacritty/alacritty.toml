@@ -1,0 +1,24 @@
+import = [
+  "~/.config/alacritty/themes/themes/oceanic_next.toml"
+]
+
+[shell]
+program = "/bin/zsh"
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+dynamic_padding = true
+decorations = "None"
+
+opacity = 1
+blur = true
+
+option_as_alt = "Both" # Make Option key behave as Alt
+
+startup_mode = "Maximized"
+
+[font]
+normal.family = "MesloLGS Nerd Font Mono"
+size = 15
